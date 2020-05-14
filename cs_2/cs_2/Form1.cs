@@ -15,6 +15,7 @@ namespace cs_2
         public Form1()
         {
             InitializeComponent();
+你好
         }
     }
 }
